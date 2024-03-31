@@ -1,16 +1,11 @@
-# on_air
+#OnAir
 
-A new Flutter project.
+OnAir is Social media platform which allows its user to send high quality images and videos to others without any depreciation in the quality.It also has features of traditional social media platforms such has messaging, posting photos and videos, group chatting and many more.
 
-## Getting Started
+The following are the new and features that our app provides:
+1.Send/posti post images and videos without any depreciation in there quality.
+2.Schedule Messaging
+3.Chat locks
+4.Improved user account visibility system
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
